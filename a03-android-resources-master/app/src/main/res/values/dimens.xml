@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity -->
+    <dimen name="main_layout_padding">24dp</dimen>
+    <dimen name="imageview_width">128dp</dimen>
+    <dimen name="imageview_height">0dp</dimen>
+    <dimen name="imageview_margin_bottom">12dp</dimen>
+    <dimen name="textview_margin_bottom">24dp</dimen>
+
+    <!-- Styles -->
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="long_text_size">16sp</dimen>
+    <dimen name="long_text_height">24dp</dimen>
+    <dimen name="button_padding_start">24dp</dimen>
+    <dimen name="button_padding_end">24dp</dimen>
+</resources>
